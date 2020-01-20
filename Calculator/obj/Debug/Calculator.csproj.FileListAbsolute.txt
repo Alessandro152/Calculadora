@@ -1,0 +1,9 @@
+C:\Users\joaop_000\Desktop\Fonts.NET\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\joaop_000\Desktop\Fonts.NET\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\joaop_000\Desktop\Fonts.NET\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\joaop_000\Desktop\Fonts.NET\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\joaop_000\Desktop\Fonts.NET\Calculator\Calculator\Calculator\obj\Debug\Calculator.frmCalculator.resources
+C:\Users\joaop_000\Desktop\Fonts.NET\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\joaop_000\Desktop\Fonts.NET\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\joaop_000\Desktop\Fonts.NET\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\joaop_000\Desktop\Fonts.NET\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
